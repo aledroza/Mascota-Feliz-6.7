@@ -4,3 +4,7 @@ entidades relacionadas + base de datos + authenticacion +authorizacion
 LINK
 
 https://drive.google.com/drive/folders/1WiDxaTQGEcgCO70fR1Muxygtopg6ecZX?usp=sharing
+
+VIDEO:
+http://youtu.be/WCVLkiXbAa0?hd=1
+
